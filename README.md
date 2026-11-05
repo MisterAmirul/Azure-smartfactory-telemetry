@@ -67,7 +67,7 @@
 
 <br><br><br>
 
-
+11. Provisioning Azure Cosmos DB NoSQL account (smartfactory-cosmos-oct2026) to serve as the hot storage layer for critical incidents.
 <img width="1895" height="920" alt="Screenshot From 2026-10-25 22-53-47" src="https://github.com/user-attachments/assets/fcb6633e-ba88-475c-9808-4edf04146bc7" />
 
 <br><br><br>
