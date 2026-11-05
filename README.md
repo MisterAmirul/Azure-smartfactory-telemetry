@@ -82,12 +82,12 @@
 
 <br><br><br>
 
-13. Ran sync_incidents.py to automatically query Log Analytics for critical alerts and upsert 30 isolated incident records directly into Cosmos DB.
+13. Verifying NoSQL Data Ingestion in the Data Explorer Azure Portal to confirm the JSON documents were perfectly structured inside the CriticalIncidents container.
 <img width="1886" height="983" alt="Screenshot From 2026-10-26 23-11-14" src="https://github.com/user-attachments/assets/f0736031-9c3a-4a5c-bc2b-4e0fe87d5ba7" />
 
 <br><br><br>
 
-14. Verifying NoSQL Data Ingestion in the Data Explorer Azure Portal to confirm the JSON documents were perfectly structured inside the CriticalIncidents container.
+14. Provisioning Azure Managed Grafana
 <img width="1916" height="1005" alt="Screenshot From 2026-10-30 23-16-46" src="https://github.com/user-attachments/assets/cada7016-5eb4-4c1b-b624-8b80b37b4c9b" />
 
 <br><br><br>
