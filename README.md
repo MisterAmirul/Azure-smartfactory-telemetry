@@ -72,10 +72,6 @@
 
 <br><br><br>
 
-11. Provisioning Azure Cosmos DB NoSQL account (smartfactory-cosmos-oct2026) to serve as the hot storage layer for critical incidents.
-<img width="1886" height="910" alt="Screenshot From 2026-10-26 22-39-45" src="https://github.com/user-attachments/assets/84098714-9578-4413-814b-dc8bb91b7e10" />
-
-<br><br><br>
 
 12. Configuring the database sync environment, fetched the Cosmos DB connection string via Azure CLI and installed the required Python SDKs (azure-cosmos, azure-monitor-query) for the sync script.
 <img width="1886" height="910" alt="Screenshot From 2026-10-26 23-10-27" src="https://github.com/user-attachments/assets/590fa63c-5e62-4bba-ac40-30ed69fded17" />
