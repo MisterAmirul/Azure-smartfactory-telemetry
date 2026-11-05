@@ -85,8 +85,7 @@
 8. Run the application by "python azdeploy.py" will trigger interactive deployment menu.
 <img width="1886" height="983" alt="Screenshot From 2026-10-26 23-11-14" src="https://github.com/user-attachments/assets/f0736031-9c3a-4a5c-bc2b-4e0fe87d5ba7" />
 
-<br><br><br><img width="1901" height="879" alt="Screenshot From 2026-10-31 20-16-36" src="https://github.com/user-attachments/assets/748b1608-70cd-49d2-a799-4570381ae1c6" />
-
+<br><br><br>
 
 8. Run the application by "python azdeploy.py" will trigger interactive deployment menu.
 <img width="1916" height="1005" alt="Screenshot From 2026-10-30 23-16-46" src="https://github.com/user-attachments/assets/cada7016-5eb4-4c1b-b624-8b80b37b4c9b" />
