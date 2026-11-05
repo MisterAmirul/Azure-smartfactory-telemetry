@@ -1,4 +1,3 @@
-<img width="1901" height="879" alt="Screenshot From 2026-10-31 20-16-36" src="https://github.com/user-attachments/assets/321fdeee-adcc-4266-9c1f-09d32e62fc33" /><img width="1905" height="940" alt="Screenshot From 2026-10-25 19-07-17" src="https://github.com/user-attachments/assets/7114421e-326a-44b9-9fe9-227931fd2ee3" />
 ## Hands-on lab integrating a Kaggle dataset into Azure using a multi-service pipeline.
 
 
