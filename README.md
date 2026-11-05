@@ -73,7 +73,7 @@
 <br><br><br>
 
 
-12. Configuring the database sync environment, fetched the Cosmos DB connection string via Azure CLI and installed the required Python SDKs (azure-cosmos, azure-monitor-query) for the sync script.
+12. Ran sync_incidents.py to automatically query Log Analytics for critical alerts and upsert 30 isolated incident records directly into Cosmos DB.
 <img width="1886" height="910" alt="Screenshot From 2026-10-26 23-10-27" src="https://github.com/user-attachments/assets/590fa63c-5e62-4bba-ac40-30ed69fded17" />
 
 <br><br><br>
