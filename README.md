@@ -1,5 +1,7 @@
 ## Hands-on lab integrating a Kaggle dataset into Azure using a multi-service pipeline.
 
+# Data source: https://www.kaggle.com/datasets/canozensoy/industrial-iot-dataset-synthetic
+
 
 1. Provisioning an empty Azure Resource Group to logically contain all the microservices for the factory pipeline.
 <img width="1894" height="930" alt="Screenshot From 2026-10-23 00-17-39" src="https://github.com/user-attachments/assets/dd757a23-0ae1-4f99-ba35-11bf8eef4c2c" />
